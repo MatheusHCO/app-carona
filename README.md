@@ -1,4 +1,4 @@
-# Carona Fácil 🚗
+# EasyCar-Mobile 🚗
 
 **Carona Fácil** é um aplicativo desenvolvido para facilitar a busca e a oferta de caronas entre pessoas. Ele permite que usuários possam tanto **oferecer caronas** quanto **solicitar caronas**, tudo de forma simples e prática. 🌍
 
